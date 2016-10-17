@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a [fullstack developer][1], passionate with my profession and wishing to contribute to a better world through technology.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Undergraduate in CS by [Federal University of Pernambuco][2] and [Memorial University of Newfoundland][3]. <br/>Currently, I'm pursuing a master''s degree in [computational intelligence][4] in Federal University of Pernambuco.
 
-You can find the source code for Jekyll at
+
+  [1]: http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/ "full stack developer"
+  [2]: http://www2.cin.ufpe.br/site/index.php
+  [3]: http://www.mun.ca/computerscience/
+  [4]: https://en.wikipedia.org/wiki/Computational_intelligence
+
+
+{% include stackoverflow.html  %} 
+
+
 {% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[alvarojoao](https://github.com/jekyll/alvarojoao)
