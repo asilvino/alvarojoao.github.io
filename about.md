@@ -18,5 +18,4 @@ Undergraduate in CS by [Federal University of Pernambuco][2] and [Memorial Unive
 {% include stackoverflow.html  %} 
 
 
-{% include icon-github.html username="jekyll" %} /
-[alvarojoao](https://github.com/jekyll/alvarojoao)
+{% include icon-github.html username="alvarojoao" %} 
