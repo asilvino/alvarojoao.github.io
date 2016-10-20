@@ -19,6 +19,6 @@ Undergraduate in CS by [Federal University of Pernambuco][2] and [Memorial Unive
 
 {% include hackerrank.html  %} 
 
-{% include github-badge.html username="alvarojoao" %} 
+{% include github-badge.html  %} 
 
 {% include icon-github.html username="alvarojoao" %} 
