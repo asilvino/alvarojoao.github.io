@@ -5,9 +5,9 @@ date:   2017-12-29 00:25:35 -0200
 categories: Business Inside
 ---
 
-####Have you ever thought you are above the average?
-####Or if you have been frustrated because people are not noticing your hard work?
-Or even you fell part of a huge conspiracy around you, where people/conditions won’t allow you shire and reach the excellence, no netter what you do?
+#### Have you ever thought you are above the average?
+#### Or if you have been frustrated because people are not noticing your hard work?
+#### Or even you fell part of a huge conspiracy around you, where people/conditions won’t allow you shire and reach the excellence, no netter what you do?
 
 If you answered yes, and truly believe in those assumptions; you are average... 
 In reality, you are not special enough to make people conspire against you or even boycott your work. 
