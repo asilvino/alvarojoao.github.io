@@ -1,37 +1,69 @@
 ---
 layout: post
 title:  "The curse of average!"
-date:   2017-12-29 00:25:35 -0200
+date:   2018-01-14 00:25:35 -0200
 categories: Business Inside
 ---
 
-#### Have you ever thought you are above the average?
-#### Or if you have been frustrated because people are not noticing your hard work?
-#### Or even you fell part of a huge conspiracy around you, where people/conditions won’t allow you shire and reach the excellence, no netter what you do?
+ - Do you think you are *always* above the average?
+ - Are you frustrated because people are not noticing your hard work?
+ - Have you ever felt part of a huge conspiracy around you, where people/conditions won’t allow you shire and reach the excellence, no netter what you do?
+ 
+If you answered **YES**, and truly believe on those assumptions; you are **below** average... 
 
-If you answered yes, and truly believe in those assumptions; you are average... 
-In reality, you are not special enough to make people conspire against you or even boycott your work. 
+   In fact, you are not special enough to make people conspire against you or even boycott your work.  As seen on *the power of habits*, the mind always build patterns that easiest explain the facts around you, it's hard to have a better self-evaluation when it's hard to accept that you are part of the problem.
+   
+   The idea to accept you are indispensable are fairly more attractive than the opposite. I gladly invite you to prove your indispensability.
+   
+   As a **software engineer**, I will prove to myself I’m **not special** with the following *3 steps*:<br/> 
 
-In the moment you accept and embrace those thoughts. You can change your mindset and allow your self to progress and retrieve success easy as saying. 
+*Disclamer:Do not misunderstand with pessimism and self-depreciation. It’s quite the opposite I will explain with math! ( don’t be afraid);*
 
-That easy? Actually no. 
-On a side note. Do not misunderstand with self-demotion and self-evaluation badly. It’s quite the opposite I will explain with math ( don’t be afraid);
+### 1 - Understanding my sample space:
 
-If you answered yes to one of those questions above. It’s safe to assume you, reader, feels somehow special. Or even if you didn’t answer a thing. Might somehow feel special. If you think and feel and at some point are sure of it. I gladly invite you to prove it. The idea to accept you are indispensable are fairly more attractive than the opposite. 
-As a software engineer, I will prove to my self I’m not. 
-Let’s start with our points spaces. We can start by city level... but I’m more interested in a more realistic and global solution. Let’s start with the entire country... The Netherlands ask your self, how many engineers like myself graduates with that title? Let’s say 10,000 per year, however, the Netherlands keeps importing this kind of engineers from all around the world, let’s now think globally, how many? Let’s say 2M per year with the same title as me... but still not a fair look at the entire population, why? Because not necessarily someone undergraduate in software engineering will work on the field and be sure you will find amazing software engineers they never put the foot on the university or any formal educational institution. Where now? Let’s accept that at least once in life they needed help from any platform, the most popular is the StackOverflow what they say? Well, in the entire world we have at least 300M active software engineers working and trying their best to actively achieve excellence. 
+Let’s start with our sample space. 
 
-Ok. “You just told me to not self-demote, you somehow are not on the bottom of that sea of people” you might think. Yes, we are not. However the next steps we need to take it very carefully. 
+  We can start by city level... but I’m more interested in a bigger and realistic solution, for this purpose we will use StackOverflow database (https://data.stackexchange.com). 
+  
+  I ask myself, how many engineers like myself is available in the market with Software engineering title?
+  
+  1 - Let’s start with the entire country: *Netherlands*.  It's safe to say around 20,406, however, the Netherlands keeps importing this kind of engineers from all around the world, so our market it's not local we need to think globally;
+  2 - Globally our number jumps to 8,2M with the same title as me... but still not a fair enough this number is not correct, why? Because not necessarily all developers have an account on StackOverflow, in software engineering market;
+  3 - Realistically, it's safe to assume all kind of backgrounds around the software engineers, as the ones with and without a formal university/college education, hobbyists, and freelancers. How big now? around 18,2 M (https://www.quora.com/Approximately-how-many-programmers-are-there-in-the-world);
+  
+### 2 - My placement (self-evaluation):
 
-Now think, everything that makes you special (business speaking). Let’s filter the people with equal or better knowledge than you, how do you know it? Be super honest if they can prove a simple only profile, ppt, references, certificates or/and third-party projects well those people are one step ahead of you. If you can’t prove your knowledge and passions apart a good screening and interview it will be harder to prove you should be on top of the stack. 
+   Ok wait... You just said: "not self-depreciation" <br/>
+                             "I'm not in the bottom of that sea of people"- You may think; <br/>
+   Yes, we are not!<br/>
+   However the next steps we need to take it very carefully, how to self-evaluate?<br>
+   Just let strong shreds of evidence do the hard lift for you;<br/>
+   
+Now let's gather the following:
 
-After that fictional stack of people, always look up to be inspired and get mentors and role models, to make a better job. If you don’t have those people it’s important to have them. 
-Look down and always be open to listen to people and most important help people to move up, sometimes you will find better and younger people that inevitably will overcome yourself easy and pie, luckily you will not be remembered as that guy cheering for misfortune of others, don’t be that person;
-I understand that pride is a huge rock on the road but it’s also possible to be role models for those people.  The whole idea of evolution is that new generation will have better chances to adapt to the new environments. It's nature. It’s stats. Nothing will change just because you want or said so. Remember you are not special. 
+  1 - profiles, your profile on any platform (GitHub, LinkedIn, Twitter, Blogs,...) is, in most cases, the channel where you are making your first impressions;<br/>
+  2 - presentations or articles, made by you preferably with business impacts and results from the previous company/jobs;<br/>
+	3 - references and recommendations, like LinkedIn's ;<br/>
+	4 - certificates;<br/>
+	5 - diplomas or Academic titles;<br/>
+  
+  If you can’t prove your knowledge and passions during a good screening and interview, it will be harder to prove you should be on top of the stack. <br/>
 
-For me with all my efforts to be more visible on stack-overflow, having a better resume and better visibility projects on GitHub, and all my certificates on online courses and universities diplomas. I can count at least 35,000 people better than me right now... 
+### 3 - My true value:
 
-Having this kind of mindset it’s necessary to understand: you are not special and you have better work to do and have to overcome yourself multiples times, stop whining. 
+After placing yourself on that fictional stack of people; I'm sure you won't be on top of it. Always look up to be inspired and get mentors and role models, to make a better job. If you don’t have those people it’s important to have them. 
 
-Once you acknowledge those facts you will receive and give better feedback. You will understand your skews and where to impress better people and ultimately understand your true value. 
+  Look down and always be open to listen to people and most important help them to move up *"When you help others, you can't helping help yourself"*, sometimes you will find better and younger people that inevitably will overcome yourself, luckily you will not be remembered as that guy cheering for misfortune of others, **don’t be that person**;
 
+### Conclusion:
+
+If you have done right, you will be a complex average of more experience or more talented people and others growing and willing to reach your place.that
+
+   I understand that pride is a *huge* rock on the road but by removing it you will be easier to detect your weaknesses and improving points. By improving *1%* every day, you will evolve to a better and better version of yourself increasing your chances to adapt to new environments. It's natural. Nothing will change just because you want or said so. Remember you are not special. 
+
+   Once you acknowledge those facts you will receive and give better feedback, impress more people and ultimately understand your true value. 
+  *At the moment you accept and embrace the thoughts of not being special, you will be more likely to change and get more concretes results.*
+  
+- Is that easy? Actually no. 
+
+Best regards,
