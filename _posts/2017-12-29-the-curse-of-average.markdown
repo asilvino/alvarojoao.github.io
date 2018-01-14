@@ -11,7 +11,7 @@ categories: Business Inside
  
 If you answered **YES**, and truly believe in those assumptions; you are **below** average... 
 
-   In fact, you are not special enough to make people conspire against you or even boycott your work.  As seen on *the power of habits*, the mind always build patterns that easiest explain the facts around you, it's hard to have a better self-evaluation when it's hard to accept that you are part of the problem.
+   In fact, you are **not special** enough to make people **conspire against you** or even **boycott your work**.  As seen on *the power of habits*, the mind always build *patterns* that **easiest explain the facts around you**, it's hard to have a better self-evaluation when it's hard to accept that you are part of the problem.
    
    The idea to accept you are indispensable are fairly more attractive than the opposite. I gladly invite you to prove your indispensability.
    
@@ -23,13 +23,13 @@ If you answered **YES**, and truly believe in those assumptions; you are **below
 
 Let’s start with our sample space. 
 
-  We can start by city level... but I’m more interested in a bigger and realistic solution, for this purpose we will use StackOverflow database (https://data.stackexchange.com). 
+  We can start by city level... but I’m more interested in a bigger and **realistic solution**, for this purpose we will use StackOverflow database (https://data.stackexchange.com). 
   
-  I ask myself, how many engineers like myself is available in the market with Software engineering title?
+  I ask myself, how many engineers like myself is available in the market with **Software engineering title**?
   
-  1 - Let’s start with the entire country: *Netherlands*.  It's safe to say around 20,406, however, the Netherlands keeps importing this kind of engineers from all around the world, so our market it's not local we need to think globally;<br/>
-  2 - Globally our number jumps to 8,2M with the same title as me... but still not a fair enough this number is not correct, why? Because not necessarily all developers have an account on StackOverflow, in software engineering market;<br/>
-  3 - Realistically, it's safe to assume all kind of backgrounds around the software engineers, as the ones with and without a formal university/college education, hobbyists, and freelancers. How big now? around 18,2 M (https://www.quora.com/Approximately-how-many-programmers-are-there-in-the-world);<br/>
+  1 - Let’s start with the entire country: *Netherlands*.  It's safe to say around **20,406**. However, the *Netherlands* keeps importing those kind of engineers from all around the world, so our market it's not local we need to think globally;<br/>
+  2 - Globally our number jumps to **8,2M** with the same title as me... but still not a fair enough this number is not correct, why? Because not necessarily all developers have an account on StackOverflow, in software engineering market;<br/>
+  3 - Realistically, it's safe to assume all kind of backgrounds around the software engineers, as the ones with and without a formal university/college education, hobbyists, and freelancers. How big now? around **18,2 M** (https://www.quora.com/Approximately-how-many-programmers-are-there-in-the-world);<br/>
   
 ### 2 - My placement (self-evaluation):
 
