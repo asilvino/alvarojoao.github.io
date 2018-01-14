@@ -9,7 +9,7 @@ categories: Business Inside
  - Are you frustrated because people are not noticing your hard work?
  - Have you ever felt part of a huge conspiracy around you, where people/conditions won’t allow you shire and reach the excellence, no netter what you do?
  
-If you answered **YES**, and truly believe on those assumptions; you are **below** average... 
+If you answered **YES**, and truly believe in those assumptions; you are **below** average... 
 
    In fact, you are not special enough to make people conspire against you or even boycott your work.  As seen on *the power of habits*, the mind always build patterns that easiest explain the facts around you, it's hard to have a better self-evaluation when it's hard to accept that you are part of the problem.
    
@@ -17,7 +17,7 @@ If you answered **YES**, and truly believe on those assumptions; you are **below
    
    As a **software engineer**, I will prove to myself I’m **not special** with the following *3 steps*:<br/> 
 
-*Disclamer:Do not misunderstand with pessimism and self-depreciation. It’s quite the opposite I will explain with math! ( don’t be afraid);*
+*Disclaimer: Do not misunderstand with pessimism and self-depreciation. It’s quite the opposite I will explain with math! ( don’t be afraid);*
 
 ### 1 - Understanding my sample space:
 
@@ -36,7 +36,7 @@ Let’s start with our sample space.
    Ok wait... You just said: "not self-depreciation" <br/>
                              "I'm not in the bottom of that sea of people"- You may think; <br/>
    Yes, we are not!<br/>
-   However the next steps we need to take it very carefully, how to self-evaluate?<br>
+   However, the next steps we need to take it very carefully, how to self-evaluate?<br>
    Just let strong shreds of evidence do the hard lift for you;<br/>
    
 Now let's gather the following:
