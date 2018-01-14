@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The curse of average!"
+title:  "It's good to be average - always be average!"
 date:   2018-01-14 00:25:35 -0200
 categories: Business Inside
 ---
