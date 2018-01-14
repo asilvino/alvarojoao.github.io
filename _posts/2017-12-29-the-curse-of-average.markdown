@@ -27,9 +27,9 @@ Let’s start with our sample space.
   
   I ask myself, how many engineers like myself is available in the market with Software engineering title?
   
-  1 - Let’s start with the entire country: *Netherlands*.  It's safe to say around 20,406, however, the Netherlands keeps importing this kind of engineers from all around the world, so our market it's not local we need to think globally;
-  2 - Globally our number jumps to 8,2M with the same title as me... but still not a fair enough this number is not correct, why? Because not necessarily all developers have an account on StackOverflow, in software engineering market;
-  3 - Realistically, it's safe to assume all kind of backgrounds around the software engineers, as the ones with and without a formal university/college education, hobbyists, and freelancers. How big now? around 18,2 M (https://www.quora.com/Approximately-how-many-programmers-are-there-in-the-world);
+  1 - Let’s start with the entire country: *Netherlands*.  It's safe to say around 20,406, however, the Netherlands keeps importing this kind of engineers from all around the world, so our market it's not local we need to think globally;<br/>
+  2 - Globally our number jumps to 8,2M with the same title as me... but still not a fair enough this number is not correct, why? Because not necessarily all developers have an account on StackOverflow, in software engineering market;<br/>
+  3 - Realistically, it's safe to assume all kind of backgrounds around the software engineers, as the ones with and without a formal university/college education, hobbyists, and freelancers. How big now? around 18,2 M (https://www.quora.com/Approximately-how-many-programmers-are-there-in-the-world);<br/>
   
 ### 2 - My placement (self-evaluation):
 
