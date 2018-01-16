@@ -7,7 +7,7 @@ categories: Business Inside
 
  - Do you think you are *always* above the average?
  - Are you frustrated because people are not noticing your hard work?
- - Have you ever felt part of a huge conspiracy around you, where people/conditions won’t allow you shire and reach the excellence, no metter what you do?
+ - Have you ever felt part of a huge conspiracy around you, where people/conditions won’t allow you shire and reach the excellence, no matter what you do?
  
 If you answered **YES**, and truly believe in those assumptions; you are **below** average... 
 
