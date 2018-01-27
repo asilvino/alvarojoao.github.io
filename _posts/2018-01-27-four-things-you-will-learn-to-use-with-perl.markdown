@@ -7,7 +7,7 @@ categories: Tech Inside
 
 **Just like any other language, Perl will teach you a couple of things;**
 
-##1. [Pattern matching](https://perldoc.perl.org/perlre.html#The-Basics) is awesome and is **EVERYWHERE**:
+## 1. [Pattern matching](https://perldoc.perl.org/perlre.html#The-Basics) is awesome and is **EVERYWHERE**:
 	
 ##### easily you can find out this kind of syntax to import! Packages;
 ```
@@ -62,7 +62,7 @@ my $a = '10-123-2-1245' =~ m/$email/;
 ```
 	
 	
-##2. Punctuation variables -> [perlvar](https://perldoc.perl.org/perlvar.html):
+## 2. Punctuation variables -> [perlvar](https://perldoc.perl.org/perlvar.html):
 	
 Perl has already built in variables; <br/>
 **I love to write as less as possible to reach my goal. This kind of struture helps me a lot!**
@@ -96,7 +96,7 @@ $GID
 $REAL_USER_ID	
 ```
 	
-##3. [References and types](https://perldoc.perl.org/perlintro.html#Perl-variable-types) 
+## 3. [References and types](https://perldoc.perl.org/perlintro.html#Perl-variable-types) 
 	
 In perl you will understand that the less is more. In most of case you will only lead with **3 different types**, and it's **ok**.<br/> 
 Of course you can implement all *fancy stuff as Object Orientations guide lines.*<br/>
@@ -111,7 +111,7 @@ my %av = (1,2,3,4,5,6);
 my $av = {1=>2,3=>4,5=>6}; 
 ```
 	
-##4. [Map,](http://perldoc.perl.org/functions/map.html) [Sort,](http://perldoc.perl.org/functions/sort.html) [Grep,](http://perldoc.perl.org/functions/grep.html) and arrays and hashes:
+## 4. [Map,](http://perldoc.perl.org/functions/map.html) [Sort,](http://perldoc.perl.org/functions/sort.html) [Grep,](http://perldoc.perl.org/functions/grep.html) and arrays and hashes:
 
 One of best ways to improve your script is understanding the best way to use hashes; With perl this is extremelly intuitive.
 	
