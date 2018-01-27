@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How not be average and improve your career!"
+title:  "How to not be average and improve your career!"
 date:   2018-01-14 00:25:35 -0200
 categories: Business Inside
 ---
