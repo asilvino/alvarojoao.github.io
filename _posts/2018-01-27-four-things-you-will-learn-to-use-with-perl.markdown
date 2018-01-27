@@ -9,12 +9,12 @@ categories: Tech Inside
 
 ## 1. [Pattern matching](https://perldoc.perl.org/perlre.html#The-Basics) is awesome and is **EVERYWHERE**:
 	
-##### easily you can find out this kind of syntax to import! Packages;
+#### easily you can find out this kind of syntax to import! Packages;
 ```
 use if scalar (SERVER_VAR =~ m/^(service_a|service_b)$/), 'Object::Db::Model' => qw( Admin );
 ```
 	
-##### or to get check for matches;
+#### or to get check for matches;
 	
 ```
 my $match = '10-123-2-1245' =~ m/(\d{3,})/;
@@ -30,7 +30,7 @@ print $match_2?1:0,"\n";
 [Finished in 0.1s]
 ```
 	
-##### Getting the first match
+#### Getting the first match
 ```
 my ($match) = '10-123-2-1245' =~ m/(\d{3,})/;
 print $match,"\n";
@@ -42,7 +42,7 @@ print $match,"\n";
 [Finished in 0.1s]
 ```
 	
-##### get all mathes? just include `g`
+#### get all mathes? just include the modifier [`g`](https://perldoc.perl.org/perlre.html#Modifiers)
 	
 ```
 my @match = '10-123-2-1245' =~ m/(\d{3,})/g;
@@ -55,7 +55,7 @@ print join ',',@match,"\n";
 [Finished in 0.1s]
 ```
 	
-##### use with variables? no problem
+#### use with variables? no problem
 ```
 my $email = '(\d{3,})';
 my $a = '10-123-2-1245' =~ m/$email/;
