@@ -154,7 +154,7 @@ print join ',', @av,"\n";
 	
 #### HOW USE SORT?
 	
-**SORT** is very handy no great change from grep or map; As you already are using `$_`, for **SORT** you need to use `$a` and `$b` and [`<=>` or `COMP`](https://perldoc.perl.org/perlop.html#Equality-Operators)  operators. For instance:
+**SORT** is very handy no great change from grep or map; As you already are using `$_`, for **SORT** you need to use `$a` and `$b` and [`<=>` or `CMP`](https://perldoc.perl.org/perlop.html#Equality-Operators)  operators. For instance:
 	
 	
 ```	
