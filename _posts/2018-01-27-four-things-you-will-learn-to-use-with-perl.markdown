@@ -2,7 +2,7 @@
 layout: post
 title:  "4 things you will learn to use with perl"
 date:   2018-01-27 21:55:35 -0200
-categories: Tech Inside
+categories: Business Inside
 ---
 
 **Just like any other language, Perl will teach you a couple of things;**
