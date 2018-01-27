@@ -57,8 +57,8 @@ print join ',',@match,"\n";
 	
 ### use with variables? no problem
 ```
-my $email = '(\d{3,})';
-my $a = '10-123-2-1245' =~ m/$email/;
+my $three_or_more_digits = '(\d{3,})';
+my $a = '10-123-2-1245' =~ m/$three_digits/;
 ```
 	
 	
