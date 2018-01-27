@@ -104,11 +104,11 @@ With perl you can start coding and delievering real value with those simples str
 	
 ```
 # Perl has 3 basic (natives) types: ($,@,%)
-my $av = 1;
-my @av = [1,2,3,4,5,6];
-my %av = (1,2,3,4,5,6);
+my $scalar_val = 1;
+my @array_val = [1,2,3,4,5,6];
+my %hash_val = (1,2,3,4,5,6);
 # can be also declared as 
-my $av = {1=>2,3=>4,5=>6}; 
+my $hash_val = {1=>2,3=>4,5=>6}; 
 ```
 	
 ## 4. [Map,](http://perldoc.perl.org/functions/map.html) [Sort,](http://perldoc.perl.org/functions/sort.html) [Grep,](http://perldoc.perl.org/functions/grep.html) and arrays and hashes:
