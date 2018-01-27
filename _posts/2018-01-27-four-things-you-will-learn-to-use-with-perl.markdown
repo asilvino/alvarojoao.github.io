@@ -126,7 +126,7 @@ print join ',', @av,"\n";
 @av = map {$_*2} @av;
 print join ',', @av,"\n";
 ```
-output:
+**output:**
 
 ```
 1,2,3,4,5,6,	
@@ -144,7 +144,7 @@ print join ',', @av,"\n";
 @av = grep {$_%2} @av;
 print join ',', @av,"\n";
 ```
-output:
+**output:**
 	
 ```
 1,2,3,4,5,6,
@@ -163,7 +163,7 @@ print join ',', @av,"\n";
 @av = sort {$a <=> $b} @av;
 print join ',', @av,"\n";
 ```
-output:
+**output:**
 	
 ```
 1,2,3,4,5,6,
@@ -180,7 +180,7 @@ my $v = { map { $_=>1} @av};
 print Dumper($v),"\n";
 ```
 	
-output:
+**output:**
 	
 ```
 $VAR1 = {
