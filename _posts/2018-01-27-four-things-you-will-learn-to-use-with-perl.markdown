@@ -113,7 +113,7 @@ my $hash_val = {1=>2,3=>4,5=>6};
 	
 ## 4. [Map,](http://perldoc.perl.org/functions/map.html) [Sort,](http://perldoc.perl.org/functions/sort.html) [Grep,](http://perldoc.perl.org/functions/grep.html) and arrays and hashes:
 
-One of best ways to improve your script is understanding the best way to use hashes; With perl this is extremelly intuitive.
+One of best ways to improve your script is understanding the best way to use hashes; With perl this is extremely intuitive.
 	
 ##### HOW USE MAP?
 	
@@ -154,7 +154,7 @@ print join ',', @av,"\n";
 	
 #### HOW USE SORT?
 	
-**SORT** is very handy no great change from grep or map; As you already are using `$_`, for **SORT** you need to use `$a` and `$b` and `<=>` or `COMP` [ref] operators. For instance:
+**SORT** is very handy no great change from grep or map; As you already are using `$_`, for **SORT** you need to use `$a` and `$b` and [`<=>` or `COMP`](https://perldoc.perl.org/perlop.html#Equality-Operators)  operators. For instance:
 	
 	
 ```	
