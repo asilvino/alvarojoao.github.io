@@ -9,7 +9,7 @@ categories: Tech Inside
 
 ## 1. [Pattern matching](https://perldoc.perl.org/perlre.html#The-Basics) is awesome and is **EVERYWHERE**:
 	
-### easily you can find out this kind of syntax to import! Packages;
+### easily you can find out this kind of syntax to import Packages!;
 ```
 use if scalar (SERVER_VAR =~ m/^(service_a|service_b)$/), 'Object::Db::Model' => qw( Admin );
 ```
@@ -55,7 +55,7 @@ print join ',',@match,"\n";
 [Finished in 0.1s]
 ```
 	
-### use with variables? no problem
+### with variables? no problem
 ```
 my $three_or_more_digits = '(\d{3,})';
 my $a = '10-123-2-1245' =~ m/$three_digits/;
