@@ -86,7 +86,7 @@ for (@a){
 [Finished in 0.1s]
 ```
 	
-Specially if you uses a lot [SYSTEM variables] (https://perldoc.perl.org/perlvar.html#General-Variables), now this will be Handy;
+Specially if you uses a lot [SYSTEM variables](https://perldoc.perl.org/perlvar.html#General-Variables), now this will be Handy;
 	
 ```
 %ENV
