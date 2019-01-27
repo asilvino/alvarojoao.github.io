@@ -3,7 +3,7 @@ layout: post
 title:  "How to not be average and improve your career!"
 date:   2018-01-14 00:25:35 -0200
 categories: Business Inside
-visible: 1
+visible: 0
 ---
 
  - Do you think you are *always* above the average?
