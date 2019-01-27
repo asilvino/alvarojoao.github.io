@@ -3,6 +3,7 @@ layout: post
 title:  "4 things I learned with Perl"
 date:   2018-01-27 21:55:35 -0200
 categories: Tech Inside
+visible: 1
 ---
 
 **By leaning Perl, the language will teach you a couple of things;**
